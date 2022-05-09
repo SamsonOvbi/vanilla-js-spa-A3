@@ -1,0 +1,12 @@
+{
+  "name": "routing-nav-using-vanilla-js-spa",
+  "version": "0.0.2",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "~2.4.4"
+  }
+}

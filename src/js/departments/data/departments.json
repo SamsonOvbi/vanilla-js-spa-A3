@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Retail",
+    "category": "Retail",
+    "image": "./src/js/departments/img/runningshoe.jpg",
+    "contact": "Retail Manager",
+    "manager": "Samantha Cooks",
+    "eMail": "s_cooks@gmail.com",
+    "description": "Provision of retail and ancilliary services"
+  },
+  {
+    "id": 2,
+    "name": "Design",
+    "category": "Design",
+    "image": "./src/js/departments/img/AlbanyTable.jpg",
+    "contact": "UI/UX Designer",
+    "manager": "Kamichael Brad Nooks",
+    "eMail": "kb_nooks@gmail.com",
+    "description": "Design of cutting edge mobile devices"
+  }, 
+  {
+    "id": 3,
+    "name": "Operations",
+    "category": "Operations",
+    "image": "./src/js/departments/img/energy-drink.jpg",
+    "contact": "Operations Manager",
+    "manager": "Evelyn Candidas Chapman",
+    "eMail": "ec_chapman@gmail.com",
+    "description": "Ensure smooth running of the business and confidence of employees"
+  },
+  {
+    "id": 4,
+    "name": "Procurement",
+    "category": "Procurement",
+    "image": "./src/js/departments/img/juice.jpg",
+    "contact": "Purchasing Developer",
+    "manager": "Halima Candy Anderson",
+    "eMail": "hc_anderson@gmail.com",
+    "description": "Engage suppliers and ensure availability top quality raw materials and services"
+  },
+  {
+    "id": 5,
+    "name": "Software Development",
+    "category": "SW Development: ",
+    "image": "./src/js/departments/img/Bookshelf.jpg",
+    "contact": "Client Relationship Manager",
+    "manager": "Janet Zeta Jones",
+    "eMail": "jz_jones@gmail.com",
+    "description": "Design future proof software products and services"
+  }
+]

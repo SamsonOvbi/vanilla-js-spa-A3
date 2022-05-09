@@ -1,0 +1,100 @@
+[
+	{
+		"id": 1,
+		"name": "Beer",
+		"price": "6.00",
+		"image": "./src/js/products/img/beer.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": 2,
+		"name": "Energy Drink",
+		"price": "5.00",
+		"image": "./src/js/products/img/energy-drink.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": 3,
+		"name": "Juice",
+		"price": "4.00",
+		"image": "./src/js/products/img/juice.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": 4,
+		"name": "Milk",
+		"price": "2.50",
+		"image": "./src/js/products/img/milk.jpg",
+		"category": "grocery"
+	},
+	{
+		"id": 5,
+		"name": "Bottled Water",
+		"price": "0.50",
+		"image": "./src/js/products/img/mineral-water.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": 6,
+		"name": "Yoghurt",
+		"price": "7.00",
+		"image": "./src/js/products/img/smoothie.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": 7,
+		"name": "Sardine",
+		"price": "7.20",
+		"image": "./src/js/products/img/sardine.jpg",
+		"category": "grocery"
+	},
+	{
+		"id": 8,
+		"name": "Running Shoe",
+		"price": "100",
+		"image": "./src/js/products/img/runningshoe.jpg",
+		"category": "shoe"
+	},
+	{
+		"id": 9,
+		"name": "Jersey",
+		"price": "90",
+		"image": "./src/js/products/img/jersey.jpg",
+		"category": "shirt"
+	},
+	{
+		"id": 10,
+		"name": "Snickers",
+		"price": "130",
+		"image": "./src/js/products/img/snickers.jpg",
+		"category": "shoe"
+	},
+	{
+		"id": 11,
+		"name": "fridge",
+		"price": 88.99,
+		"image": "./src/js/products/img/product-5.jpg",
+		"category": "furniture"
+	},
+	{
+		"id": 12,
+		"name": "dresser",
+		"price": 32.99,
+		"image": "./src/js/products/img/product-6.jpg",
+		"category": "furniture"
+	},
+	{
+		"id": 13,
+		"name": "couch",
+		"price": 45.99,
+		"image": "./src/js/products/img/product-7.jpg",
+		"category": "furniture"
+	},
+	{
+		"id": 14,
+		"name": "table",
+		"price": 33.99,
+		"image": "./src/js/products/img/product-8.jpg",
+		"category": "furniture"
+	}
+]

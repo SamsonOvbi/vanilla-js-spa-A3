@@ -1,0 +1,47 @@
+[
+  {
+    "id": "01",
+    "name": "Samantha Cooks",
+    "category": "Samantha Cooks",
+    "image": "./src/js/employees/img/AlbanyTable.jpg",
+    "job": "web developer",
+    "eMail": "s_cooks@gmail.com",
+    "description": "7 Wayne Street, New Jessy"
+  },
+  {
+    "id": "02",
+    "name": "Kamichael Brad Nooks",
+    "category": "Kamichael Nooks",
+    "image": "./src/js/employees/img/BackBench.jpg",
+    "job": "UI/UX designer",
+    "eMail": "kb_nooks@gmail.com",
+    "description": "12 Montana Road, Sydney"
+  }, 
+  {
+    "id": "03",
+    "name": "Evelyn Candy Chapman",
+    "category": "Evelyn Chapman",
+    "image": "./src/js/employees/img/energy-drink.jpg",
+    "job": "product manager",
+    "eMail": "ec_chapman@gmail.com",
+    "description": "12 Montana Road, Sydney"
+  },
+  {
+    "id": "04",
+    "name": "Halima Candy Anderson",
+    "category": "Halima Anderson",
+    "image": "./src/js/employees/img/product-7.jpg",
+    "job": "web developer",
+    "eMail": "hc_anderson@gmail.com",
+    "description": "34 Ahmadu Bello Way, Kano"
+  },
+  {
+    "id": "05",
+    "name": "Janet Zeta Jones",
+    "category": "Janet Jones",
+    "image": "./src/js/employees/img/Bookshelf.jpg",
+    "job": "client relationship developer",
+    "eMail": "jz_jones@gmail.com",
+    "description": "112 Ikwerre Road, Port Harcourt"
+  }
+]

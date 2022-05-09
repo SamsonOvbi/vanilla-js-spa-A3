@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",    
+    "image": "./src/js/articles/img/things-fall-apart.jpg",
+    "pages": 209,    
+    "description": "One of Chinua Achebe's many achievements in his acclaimed first novel, Things Fall Apart, is his relentlessly unsentimental rendering of Nigerian tribal life before and after the coming of colonialism. First published in 1958, just two years before Nigeria declared independence from Great Britain, the book eschews the obvious temptation of depicting pre-colonial life as a kind of Eden. Instead, Achebe sketches a world in which violence, war, and suffering exist, but are balanced by a strong sense of tradition, ritual, and social coherence. His Ibo protagonist, Okonkwo, is a self-made man. The son of a charming ne'er-do-well, he has worked all his life to overcome his father's weakness and has arrived, finally, at great prosperity and even greater reputation among his fellows in the village of Umuofia. Okonkwo is a champion wrestler, a prosperous farmer, husband to three wives and father to several children. He is also a man who exhibits flaws well-known in Greek tragedy",    
+    "category": "Literature",
+    "year": 1958
+  },
+  {
+    "id": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "./src/js/articles/img/pride-and-prejudice.jpg",
+    "pages": 226,    
+    "description": "Robert Irvine's edition of Austen's Pride and Prejudice is a wonderfully illuminating text of an often misunderstood classic. Irvine's introduction is subtle, shrewd, and penetrating, offering a convincing historical and cultural interpretation of Austen's novel that will help readers to understand its full complexity.",
+    "category": "Literature",
+    "year": 1813
+  },
+  {
+    "id": 3,
+    "title": "jQuery in Action, Second Edition",
+    "author": [ "Bear Bibeault", "Yehuda Katz" ],
+    "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-img/bibeault2.jpg",
+    "pages": 488,    
+    "description": "jQuery in Action, Second Edition is a fast-paced introduction to jQuery that will take your JavaScript programming to the next level. An in-depth rewrite of the bestselling first edition, this edition provides deep and practical coverage of the latest jQuery and jQuery UI releases. The book's unique \"lab pages\" anchor the explanation of each new concept in a practical example. You'll learn how to traverse HTML documents, handle events, perform animations, and add Ajax to your web pages. This comprehensive guide also teaches you how jQuery interacts with other tools and frameworks and how to build jQuery plugins. ",    
+    "category": "Java",
+    "year": 2010    
+  },
+  {
+    "id": 4,
+    "title": "Secrets of the JavaScript Ninja",
+    "author": ["John Resig"],
+    "pages": 300,
+    "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-img/resig.jpg",
+    "description": "Secrets of the Javascript Ninja is definitely a book for anyone looking to significantly improve their Javascript knowledge and skills.       Ryan Doherty, Web Development Engineer, Mozilla",    
+    "category": "Java",
+    "year": 2012
+  },
+  {
+    "id": 5,
+    "title": "Node.js in Action",
+    "author": [ "Mike Cantelon", "Marc Harter", "T.J. Holowaychuk", "", "Nathan Rajlich" ],
+    "pages": 300,    
+    "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-img/cantelon.jpg",
+    "description": "Node.js in Action is an example-driven tutorial that starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications. You'll start by learning how to set up your Node development environment, including loading the community-created extensions. Next, you'll run several simple demonstration programs where you'll learn the basics of a few common types of Node applications. Then you'll dive into asynchronous programming, a model Node leverages to lessen application bottlenecks.",        
+    "category": "Web Development",
+    "year": 2013
+  },
+  {
+    "id": 6,
+    "title": "HTML5 in Action",
+    "author": [      "Rob Crowther",      "Joe Lennon",      "Ash Blue",      "",      "Greg Wanish"    ],
+    "pages": 375,
+    "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-img/crowther2.jpg",
+    "description": "HTML5 In Action provides a complete introduction to web development using HTML5. You'll explore every aspect of the HTML5 specification through real-world examples and code samples. It's much more than just a specification reference, though. It lives up to the name HTML5 in Action by giving you the practical, hands-on guidance you'll need to use key features.",        
+    "category": "Web Development",
+    "year": 2014
+  },
+  {
+    "id": 7,
+    "title": "Practical Modern JavaScript - Dive into ES6 and the Future of JavaScript",
+    "author": "Nicolás Bevacqua",
+    "pages": 334,
+    "image": "", 
+    "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
+    "category": "Web Development",
+    "year": 2017
+  },
+  {
+    "id": 8,
+    "title": "Pro Git - Everything you neeed to know about Git",
+    "author": "Scott Chacon and Ben Straub",    
+    "pages": 458,
+    "image": "", 
+    "description": "Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.",
+    "category": "DevOps",
+    "year": 2014
+  },
+  {
+    "id": 9,
+    "title": "Rethinking Productivity in Software Engineering",
+    "author": "Caitlin Sadowski, Thomas Zimmermann",    
+    "pages": 310,
+    "image": "", 
+    "description": "Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 \"Dagstuhl\" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity.",
+    "category": "Software Engg",
+    "year": 2019
+  }
+]

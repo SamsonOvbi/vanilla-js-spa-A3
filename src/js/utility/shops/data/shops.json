@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"name": "Beer",
+		"price": "6.00",
+		"image": "./src/js/utility/shops/img/beer.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": 2,
+		"name": "Energy Drink",
+		"price": "5.00",
+		"image": "./src/js/utility/shops/img/energy-drink.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": "bev_3",
+		"name": "Juice",
+		"price": "4.00",
+		"image": "./src/js/utility/shops/img/juice.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": "groc_1",
+		"name": "Milk",
+		"price": "2.50",
+		"image": "./src/js/utility/shops/img/milk.jpg",
+		"category": "grocery"
+	},
+	{
+		"id": "bev_4",
+		"name": "Bottled Water",
+		"price": "0.50",
+		"image": "./src/js/utility/shops/img/mineral-water.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": "bev_5",
+		"name": "Yoghurt",
+		"price": "7.00",
+		"image": "./src/js/utility/shops/img/smoothie.jpg",
+		"category": "beverage"
+	},
+	{
+		"id": "groc_2",
+		"name": "Sardine",
+		"price": "7.20",
+		"image": "./src/js/utility/shops/img/sardine.jpg",
+		"category": "grocery"
+	},
+	{
+		"id": "shoe_1",
+		"name": "Running Shoe",
+		"price": "100",
+		"image": "./src/js/utility/shops/img/runningshoe.jpg",
+		"category": "shoe"
+	},
+	{
+		"id": "shirt_1",
+		"name": "Jersey",
+		"price": "90",
+		"image": "./src/js/utility/shops/img/jersey.jpg",
+		"category": "shirt"
+	},
+	{
+		"id": "shoe_2",
+		"name": "Snickers",
+		"price": "130",
+		"image": "./src/js/utility/shops/img/snickers.jpg",
+		"category": "shoe"
+	}
+]
