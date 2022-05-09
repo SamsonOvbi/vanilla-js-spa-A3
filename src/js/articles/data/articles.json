@@ -23,7 +23,7 @@
     "id": 3,
     "title": "jQuery in Action, Second Edition",
     "author": [ "Bear Bibeault", "Yehuda Katz" ],
-    "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-img/bibeault2.jpg",
+    "image": "./src/js/articles/img/jQuery-in-Action.jpg",
     "pages": 488,    
     "description": "jQuery in Action, Second Edition is a fast-paced introduction to jQuery that will take your JavaScript programming to the next level. An in-depth rewrite of the bestselling first edition, this edition provides deep and practical coverage of the latest jQuery and jQuery UI releases. The book's unique \"lab pages\" anchor the explanation of each new concept in a practical example. You'll learn how to traverse HTML documents, handle events, perform animations, and add Ajax to your web pages. This comprehensive guide also teaches you how jQuery interacts with other tools and frameworks and how to build jQuery plugins. ",    
     "category": "Java",
@@ -34,7 +34,7 @@
     "title": "Secrets of the JavaScript Ninja",
     "author": ["John Resig"],
     "pages": 300,
-    "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-img/resig.jpg",
+    "image": "./src/js/articles/img/Secrets-of-the-JavaScript-Ninja.jpg",
     "description": "Secrets of the Javascript Ninja is definitely a book for anyone looking to significantly improve their Javascript knowledge and skills.       Ryan Doherty, Web Development Engineer, Mozilla",    
     "category": "Java",
     "year": 2012
@@ -44,7 +44,7 @@
     "title": "Node.js in Action",
     "author": [ "Mike Cantelon", "Marc Harter", "T.J. Holowaychuk", "", "Nathan Rajlich" ],
     "pages": 300,    
-    "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-img/cantelon.jpg",
+    "image": "./src/js/articles/img/NodeJS-in-Action.jpg",
     "description": "Node.js in Action is an example-driven tutorial that starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications. You'll start by learning how to set up your Node development environment, including loading the community-created extensions. Next, you'll run several simple demonstration programs where you'll learn the basics of a few common types of Node applications. Then you'll dive into asynchronous programming, a model Node leverages to lessen application bottlenecks.",        
     "category": "Web Development",
     "year": 2013
@@ -54,7 +54,7 @@
     "title": "HTML5 in Action",
     "author": [      "Rob Crowther",      "Joe Lennon",      "Ash Blue",      "",      "Greg Wanish"    ],
     "pages": 375,
-    "image": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-img/crowther2.jpg",
+    "image": "./src/js/articles/img/Html-in-Action.jpg",
     "description": "HTML5 In Action provides a complete introduction to web development using HTML5. You'll explore every aspect of the HTML5 specification through real-world examples and code samples. It's much more than just a specification reference, though. It lives up to the name HTML5 in Action by giving you the practical, hands-on guidance you'll need to use key features.",        
     "category": "Web Development",
     "year": 2014
@@ -64,7 +64,7 @@
     "title": "Practical Modern JavaScript - Dive into ES6 and the Future of JavaScript",
     "author": "Nicolás Bevacqua",
     "pages": 334,
-    "image": "", 
+    "image": "./src/js/articles/img/Practical-Modern-JavaScript.jpg",
     "description": "To get the most out of modern JavaScript, you need learn the latest features of its parent specification, ECMAScript 6 (ES6). This book provides a highly practical look at ES6, without getting lost in the specification or its implementation details.",
     "category": "Web Development",
     "year": 2017
@@ -74,7 +74,7 @@
     "title": "Pro Git - Everything you neeed to know about Git",
     "author": "Scott Chacon and Ben Straub",    
     "pages": 458,
-    "image": "", 
+    "image": "./src/js/articles/img/Pro-Git.jpg",
     "description": "Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro.",
     "category": "DevOps",
     "year": 2014
@@ -84,7 +84,7 @@
     "title": "Rethinking Productivity in Software Engineering",
     "author": "Caitlin Sadowski, Thomas Zimmermann",    
     "pages": 310,
-    "image": "", 
+    "image": "./src/js/articles/img/Rethinking-Productivity-in-Software-Engg.jpg",
     "description": "Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 \"Dagstuhl\" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity.",
     "category": "Software Engg",
     "year": 2019
